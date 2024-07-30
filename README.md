@@ -67,27 +67,27 @@ The analysis revealed significant differences in performance and risk characteri
 The project includes various visualizations to help understand the data and results better. The visualizations can be found in the `Visualizations/` folder and include:
 
 - **Missing Values Heatmap Before Cleaning**
-- ![Missing Values Heatmap Before Cleaning](Visualizations/1.Missing%20Values%20Heatmap%20Before%20Cleaning.png)
+![Missing Values Heatmap Before Cleaning](Visualizations/1.Missing%20Values%20Heatmap%20Before%20Cleaning.png)
 - **Stock Prices Over Time**
-- ![Stock Prices Over Time](Visualizations/2.Stock%20Prices%20Over%20Time.png)
+![Stock Prices Over Time](Visualizations/2.Stock%20Prices%20Over%20Time.png)
 - **Distribution of Total ESG Risk Scores**
-- ![Distribution of Total ESG Risk Scores](Visualizations/3.Distribution%20of%20Total%20ESG%20Risk%20Scores.png)
+![Distribution of Total ESG Risk Scores](Visualizations/3.Distribution%20of%20Total%20ESG%20Risk%20Scores.png)
 - **Total Number of Stocks Analyzed Over Time**
-- ![Total Number of Stocks Analyzed Over Time](Visualizations/4.Total%20Number%20of%20Stocks%20Analyzed%20Over%20Time.png)
+![Total Number of Stocks Analyzed Over Time](Visualizations/4.Total%20Number%20of%20Stocks%20Analyzed%20Over%20Time.png)
 - **Average ESG Risk Scores Over Time**
-- ![Average ESG Risk Scores Over Time](Visualizations/5.Average%20ESG%20Risk%20Scores%20Over%20Time.png)
+![Average ESG Risk Scores Over Time](Visualizations/5.Average%20ESG%20Risk%20Scores%20Over%20Time.png)
 - **Sector Representation in Top and Bottom Portfolios**
-- ![Sector Representation in Top and Bottom Portfolios](Visualizations/6.Sector%20Representation%20in%20Top%20and%20Bottom%20Portfolios.png)
+![Sector Representation in Top and Bottom Portfolios](Visualizations/6.Sector%20Representation%20in%20Top%20and%20Bottom%20Portfolios.png)
 - **Distribution of ESG Scores for Top and Bottom Portfolios**
-- ![Distribution of ESG Scores for Top and Bottom Portfolios](Visualizations/7.Distribution%20of%20ESG%20Scores%20for%20Top%20and%20Bottom%20Portfolios.png)
+![Distribution of ESG Scores for Top and Bottom Portfolios](Visualizations/7.Distribution%20of%20ESG%20Scores%20for%20Top%20and%20Bottom%20Portfolios.png)
 - **Number of Stocks in Top and Bottom Portfolios Over Time**
-- ![Number of Stocks in Top and Bottom Portfolios Over Time](Visualizations/8.Number%20of%20Stocks%20in%20Top%20and%20Bottom%20Portfolios%20Over%20Time.png)
+![Number of Stocks in Top and Bottom Portfolios Over Time](Visualizations/8.Number%20of%20Stocks%20in%20Top%20and%20Bottom%20Portfolios%20Over%20Time.png)
 - **ESG Scores for Different Risk Categories**
-- ![ESG Scores for Different Risk Categories](Visualizations/9.ESG%20Scores%20for%20Different%20Risk%20Categories.png)
+![ESG Scores for Different Risk Categories](Visualizations/9.ESG%20Scores%20for%20Different%20Risk%20Categories.png)
 - **Market Returns Over Time**
-- ![Market Returns Over Time](Visualizations/10.Market%20Returns%20Over%20Time.png)
+![Market Returns Over Time](Visualizations/10.Market%20Returns%20Over%20Time.png)
 - **Portfolio Returns Over Time**
-- ![Portfolio Returns Over Time](Visualizations/11.Portfolio%20Returns%20Over%20Time.png)
+![Portfolio Returns Over Time](Visualizations/11.Portfolio%20Returns%20Over%20Time.png)
 
 ## Discussion
 
