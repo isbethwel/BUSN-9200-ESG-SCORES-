@@ -37,13 +37,13 @@ The cleaned combined stock and ESG data were used to create portfolios. The stoc
 
 The CAPM model was used to estimate the expected return on a portfolio relative to its risk compared to the market. The formula used is:
 
-\[ r_t = \alpha + \beta (R_m - R_f) + \epsilon_t \]
+$ r_t = \alpha + \beta (R_m - R_f) + \epsilon_t $
 
 #### Fama-French Three-Factor Model
 
 The Fama-French model extends CAPM by including size and value factors. The formula used is:
 
-\[ r_t = \alpha + \beta_1 (R_m - R_f) + \beta_2 \text{SMB} + \beta_3 \text{HML} + \epsilon_t \]
+$ r_t = \alpha + \beta_1 (R_m - R_f) + \beta_2 \text{SMB} + \beta_3 \text{HML} + \epsilon_t $
 
 ## Results
 
@@ -61,6 +61,22 @@ The analysis revealed significant differences in performance and risk characteri
   ![Table 5: Time Series Regression Results for SOC Portfolios](Updated/Tables/5.Time%20Series%20Regression%20Results%20for%20SOC%20Portfolios.png)
 - **Table 6: Time Series Regression Results for GOV Portfolios**
   ![Table 6: Time Series Regression Results for GOV Portfolios](Updated/Tables/6.Time%20Series%20Regression%20Results%20for%20GOV%20Portfolios.png)
+
+## Visualizations
+
+The project includes various visualizations to help understand the data and results better. The visualizations can be found in the `Visualizations/` folder and include:
+
+- ![Missing Values Heatmap Before Cleaning](Visualizations/1.Missing%20Values%20Heatmap%20Before%20Cleaning.png)
+- ![Stock Prices Over Time](Visualizations/2.Stock%20Prices%20Over%20Time.png)
+- ![Distribution of Total ESG Risk Scores](Visualizations/3.Distribution%20of%20Total%20ESG%20Risk%20Scores.png)
+- ![Total Number of Stocks Analyzed Over Time](Visualizations/4.Total%20Number%20of%20Stocks%20Analyzed%20Over%20Time.png)
+- ![Average ESG Risk Scores Over Time](Visualizations/5.Average%20ESG%20Risk%20Scores%20Over%20Time.png)
+- ![Sector Representation in Top and Bottom Portfolios](Visualizations/6.Sector%20Representation%20in%20Top%20and%20Bottom%20Portfolios.png)
+- ![Distribution of ESG Scores for Top and Bottom Portfolios](Visualizations/7.Distribution%20of%20ESG%20Scores%20for%20Top%20and%20Bottom%20Portfolios.png)
+- ![Number of Stocks in Top and Bottom Portfolios Over Time](Visualizations/8.Number%20of%20Stocks%20in%20Top%20and%20Bottom%20Portfolios%20Over%20Time.png)
+- ![ESG Scores for Different Risk Categories](Visualizations/9.ESG%20Scores%20for%20Different%20Risk%20Categories.png)
+- ![Market Returns Over Time](Visualizations/10.Market%20Returns%20Over%20Time.png)
+- ![Portfolio Returns Over Time](Visualizations/11.Portfolio%20Returns%20Over%20Time.png)
 
 ## Discussion
 
@@ -135,3 +151,13 @@ To run the analysis:
 
 - The data used in this project were sourced from reputable financial data providers.
 - Special thanks to the contributors who provided valuable insights and guidance throughout the project.
+
+## Disclaimer
+
+This work is original and should not be used without proper attribution. Unauthorized use or plagiarism of this work is strictly prohibited. If you use this work, please provide proper credit to the author.
+
+## Acknowledgments
+
+- The data used in this project were sourced from reputable financial data providers.
+- Special thanks to the contributors who provided valuable insights and guidance throughout the project.
+
